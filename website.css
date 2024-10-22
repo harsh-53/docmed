@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.box1{
+    background-image: url(https://preview.colorlib.com/theme/docmed/img/banner/banner.png.webp);
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
+.box1 h1{
+    font-size: 65px;
+    font-weight: 700;
+}
+.box1 h3{
+   font-size: 55px;
+     font-weight: 350;
+}
+.box1 p{
+    font-size: 20px;
+}
